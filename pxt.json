@@ -5,7 +5,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "ContinuousServo": "github:tinkertanker/pxt-continuous-servo#v0.0.6"
     },
     "files": [
         "main.blocks",
